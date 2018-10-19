@@ -7,4 +7,5 @@ print("dev")
 def pp(a):
     print(a)
 
-a = 1
+a = 2
+b = 2
